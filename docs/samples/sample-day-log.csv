@@ -1,0 +1,33 @@
+﻿Day;Task;Start;End;Time [min];Notes
+2026-11-03;API rate limiting;12:30;15:10;160;
+2026-11-03;Checkout redesign;09:05;11:40;155;
+2026-11-03;Code review;15:20;16:05;45;
+2026-11-03;Day total;;;360;
+2026-11-04;Checkout redesign;10:45;13:15;150;13:20 Agreed with design: single-page checkout, address autocomplete in phase 2.
+2026-11-04;Code review;14:00;14:50;50;
+2026-11-04;Sprint planning;09:00;10:30;90;
+2026-11-04;Day total;;;290;
+2026-11-05;API rate limiting;08:50;12:20;210;11:55 Token bucket per API key, 100 req/min default, configurable per plan.
+2026-11-05;Checkout redesign;13:00;16:35;215;
+2026-11-05;Day total;;;425;
+2026-11-06;API rate limiting;14:20;16:40;140;
+2026-11-06;Checkout redesign;09:10;12:00;170;
+2026-11-06;Release 2.4 notes;12:45;14:15;90;
+2026-11-06;Day total;;;400;
+2026-11-07;Checkout redesign;10:20;14:45;265;"14:40 Payment step done; waiting for QA on Safari."
+2026-11-07;Code review;09:00;10:15;75;
+2026-11-07;Day total;;;340;
+2026-11-10;API rate limiting;09:00;12:30;210;
+2026-11-10;Code review;13:15;14:00;45;13:50 Reviewed PR #212 (search filters) — requested smaller commits.
+2026-11-10;Release 2.4 notes;14:10;15:30;80;
+2026-11-10;Day total;;;335;
+2026-11-11;API rate limiting;13:00;15:45;165;
+2026-11-11;Checkout redesign;08:55;12:10;195;
+2026-11-11;Day total;;;360;
+2026-11-12;API rate limiting;14:00;16:20;140;
+2026-11-12;Checkout redesign;10:00;13:30;210;13:25 Fixed rounding bug in VAT summary, added unit tests.
+2026-11-12;Code review;09:00;09:50;50;
+2026-11-12;Day total;;;400;
+2026-11-13;Checkout redesign;10:53;;0;
+2026-11-13;Day total;;;0;
+Total;2026-11;;;2910;
